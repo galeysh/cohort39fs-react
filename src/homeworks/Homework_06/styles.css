@@ -1,5 +1,14 @@
+.page_wrapper{
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 100%;
+}
+
 .car-container{
     display: flex;
+    flex: 1;
     flex-wrap: wrap;
     gap: 30px;
     width: 100%;
